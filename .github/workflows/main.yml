@@ -1,1 +1,0 @@
-Name: Build VETNY APK, on workflow dispatch. Jobs, build, runs on ubuntu-latest. Steps: checkout the repo, set up Java 17
